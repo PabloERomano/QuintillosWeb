@@ -1,16 +1,3 @@
-/*
-Author: W3layout
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
-*/
-
-/*@font-face {
-   font-family: sinkinsans;
-   src: url('../fonts/sinkinsans.otf');
-}
-*/
-
 @font-face {
   font-family: 'sinkinsans';
   src: 
@@ -37,8 +24,8 @@ body a:hover{
 html, body{
 	font-family:  "sinkinsans";
 	font-size:100%;
-    color: black;
-	background:url('../images/bg.jpg');
+    background: black;
+	background-image:url('../images/bg.jpg');
     
 }
 /*-- Header Part Starts Here --*/
