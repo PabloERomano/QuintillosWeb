@@ -37,6 +37,7 @@ body a:hover{
 html, body{
 	font-family:  "sinkinsans";
 	font-size:100%;
+    color: black;
 	background:url('../images/bg.jpg');
     
 }
